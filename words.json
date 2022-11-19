@@ -1,6 +1,7 @@
 {
-  "word": "elephant"
-},
-{
-  "word": "phone"
+  "words": [
+    "elephant",
+    "phone",
+    "car"
+  ]
 }
